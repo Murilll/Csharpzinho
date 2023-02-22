@@ -42,7 +42,19 @@ var result = estoque
         return new { Nome = "Sla", Data = new DateTime()};
     });
 
-foreach (var item in result)
+
+var OrdemEProgresso = estoque
+    .OrderBy(p => p.Valor);
+
+
+var OrdemEProgressoEmOrdemAlfabetica = estoque
+    .OrderBy(p => p.Nome);
+
+
+var MediaDePreço = estoque
+    .Average(p => p.Valor);
+
+foreach (var item in MediaDePreço)
 {
     Console.WriteLine(item);
 }

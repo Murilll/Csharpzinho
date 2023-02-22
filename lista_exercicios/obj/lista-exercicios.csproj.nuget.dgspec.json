@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\desktop\\Csharpzinho\\lista-exercicios\\lista-exercicios.csproj": {}
+    "C:\\Users\\Aluno\\desktop\\Csharpzinho\\lista_exercicios\\lista-exercicios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\desktop\\Csharpzinho\\lista-exercicios\\lista-exercicios.csproj": {
+    "C:\\Users\\Aluno\\desktop\\Csharpzinho\\lista_exercicios\\lista-exercicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\desktop\\Csharpzinho\\lista-exercicios\\lista-exercicios.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\desktop\\Csharpzinho\\lista_exercicios\\lista-exercicios.csproj",
         "projectName": "lista-exercicios",
-        "projectPath": "C:\\Users\\Aluno\\desktop\\Csharpzinho\\lista-exercicios\\lista-exercicios.csproj",
+        "projectPath": "C:\\Users\\Aluno\\desktop\\Csharpzinho\\lista_exercicios\\lista-exercicios.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\desktop\\Csharpzinho\\lista-exercicios\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\desktop\\Csharpzinho\\lista_exercicios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
