@@ -52,7 +52,7 @@ var OrdemEProgressoEmOrdemAlfabetica = estoque
 
 
 var MediaDePreço = estoque
-    .Average(p => p.Valor);
+    .Select(p => p.Valor > estoque.Average(s => s.Valor));
 
 foreach (var item in MediaDePreço)
 {
